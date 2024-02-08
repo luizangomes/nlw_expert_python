@@ -8,3 +8,6 @@
 
 ### Dar Freeze nos requirements
 `.venv/bin/pip3 freeze > requirements.txt`
+
+### Checar se os testes estão rodando
+`pytest -s -v`
